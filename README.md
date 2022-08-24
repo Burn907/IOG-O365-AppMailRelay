@@ -55,20 +55,19 @@ Response Time -
 Accuracy - The accuracy of the service is important to the Business 
 
 # Objectives
-Availability - 99.9% availability 8am - 5pm M-F excluding holidays.
+Availability - 99% updatime 24/7 365 days
 
-Response Time - 90% of all triage requests will be completed within 3 business days.
+Response Time - 
 
-Accuracy - 90% of all triaged projects complete within 20% of triage estimation.
+Accuracy - 
 
 # Agreements
-Availability - 99% availability 8am - 5pm M-F excluding holidays.
+Availability - 99%
 
-Response Time - 75% of all triage requests will be completed within 5 business days.
-
-Accuracy - 75% of all triaged projects complete within 25% of triage estimation.
+Response Time - 95%
+Accuracy - 98%
 
 Indicator	SLA
 Availability	99%
-Response Time	75% within 5 bsuiness days
-Accuracy	75% with 75% accuracy of original estimate
+Response Time	95%
+Accuracy	98%
