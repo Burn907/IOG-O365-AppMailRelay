@@ -48,18 +48,17 @@ DNS for relevant domain names
 
 
 # Indicators
-Availability - The service needs to be available 24 x 7 globally 
+Availability - The service needs to be available 24 x 7 globally 365 days a year for internal and external mail to be successfully delivered
 
-Response Time - 
+Response Time - 95% response
 
-Accuracy - The accuracy of the service is important to the Business 
+Accuracy - The accuracy of the service is important to the Business for large revenue based customer reports
 
 # Objectives
-Availability - 99% updatime 24/7 365 days
+Availability - 99% uptime 24/7 365 days
 
 Response Time - 
 
-Accuracy - 
 
 # Agreements
 Availability - 99%
