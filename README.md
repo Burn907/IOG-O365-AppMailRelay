@@ -46,6 +46,10 @@ Internal F5 (servername required)
 
 DNS for relevant domain names
 
+Appmail.risk.regn.net
+Appmail-Test.risk.regn.net
+Appmail-BCT.risk.regn.net
+ 
 
 # Indicators
 Availability - The service needs to be available 24 x 7 globally 365 days a year for internal and external mail to be successfully delivered
