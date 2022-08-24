@@ -61,7 +61,7 @@ Accuracy - The accuracy of the service is important to the Business for large re
 # Objectives
 Availability - 99% uptime 24/7 365 days
 
-Response Time - 
+Response Time - 95%
 
 
 # Agreements
