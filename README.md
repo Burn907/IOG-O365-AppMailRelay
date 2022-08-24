@@ -1,6 +1,5 @@
 # IOG-O365-AppMailRelay
 
-# IOG-O365-AppMailRelay
 Application Mail relay through Cisco Cloud solutions
 IOG O365 Administration
 ===================================
